@@ -81,14 +81,7 @@
 // }
 
 
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: '#e3492b',
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   },
-// });
+
 
 
 
